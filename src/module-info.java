@@ -1,0 +1,2 @@
+module Hi_Java {
+}

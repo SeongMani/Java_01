@@ -5,7 +5,7 @@ public class N {
 	int y = 20;
 	public void swap() {
 		int temp = x;
-		x = y;
+		x = y; // test
 		y = temp;
 	}
 	
